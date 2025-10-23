@@ -1,0 +1,17 @@
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\obj\Debug\net8.0\MedicalImagingSystem.ViewModels.csproj.AssemblyReference.cache
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\obj\Debug\net8.0\MedicalImagingSystem.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\obj\Debug\net8.0\MedicalImagingSystem.ViewModels.AssemblyInfoInputs.cache
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\obj\Debug\net8.0\MedicalImagingSystem.ViewModels.AssemblyInfo.cs
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\obj\Debug\net8.0\MedicalImagingSystem.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\bin\Debug\net8.0\MedicalImagingSystem.ViewModels.deps.json
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\bin\Debug\net8.0\MedicalImagingSystem.ViewModels.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\bin\Debug\net8.0\MedicalImagingSystem.ViewModels.pdb
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\bin\Debug\net8.0\MedicalImagingSystem.IServices.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\bin\Debug\net8.0\MedicalImagingSystem.Models.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\bin\Debug\net8.0\MedicalImagingSystem.IServices.pdb
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\bin\Debug\net8.0\MedicalImagingSystem.Models.pdb
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\obj\Debug\net8.0\MedicalI.4FBDDB94.Up2Date
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\obj\Debug\net8.0\MedicalImagingSystem.ViewModels.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\obj\Debug\net8.0\refint\MedicalImagingSystem.ViewModels.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\obj\Debug\net8.0\MedicalImagingSystem.ViewModels.pdb
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ViewModels\obj\Debug\net8.0\ref\MedicalImagingSystem.ViewModels.dll

@@ -1,0 +1,96 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem", "MedicalImagingSystem.csproj", "{75F200DC-5E61-1858-04A3-2D2845DE8926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.IServices", "..\MedicalImagingSystem.IServices\MedicalImagingSystem.IServices.csproj", "{86665178-F767-4297-B108-E4245B7F47BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.Services", "..\MedicalImagingSystem.Services\MedicalImagingSystem.Services.csproj", "{C7294968-7558-4E13-AC5B-8BCF21ECE2B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.Models", "..\MedicalImagingSystem.Models\MedicalImagingSystem.Models.csproj", "{FC1D53AF-64A5-452D-BC2F-72D3249A654B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.ViewModels", "..\MedicalImagingSystem.ViewModels\MedicalImagingSystem.ViewModels.csproj", "{B46FC273-5C09-4296-8F0D-BDCD1618F755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.Logger", "..\MedicalImagingSystem.Logger\MedicalImagingSystem.Logger.csproj", "{57BEAEC6-F086-49D8-AD41-B1F6D26BD543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.ILogger", "..\MedicalImagingSystem.ILogger\MedicalImagingSystem.ILogger.csproj", "{AABD6B6D-81B2-4DDF-B499-BD286516ECE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.Infrastructure", "..\MedicalImagingSystem.Infrastructure\MedicalImagingSystem.Infrastructure.csproj", "{906FC4E3-6D0F-5BD4-D413-E2FC325D4E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.Infrastructure.Tests", "..\MedicalImagingSystem.Infrastructure.Tests\MedicalImagingSystem.Infrastructure.Tests.csproj", "{888CD126-1714-9F9D-BD98-D2A058ADA657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.Logger.Tests", "..\MedicalImagingSystem.Logger.Tests\MedicalImagingSystem.Logger.Tests.csproj", "{A784B2AB-782A-25EE-8D4A-86A31607520D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.Models.Tests", "..\MedicalImagingSystem.Models.Tests\MedicalImagingSystem.Models.Tests.csproj", "{F27CB959-CA1C-BF65-D3A1-B316E31E4EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.Services.Tests", "..\MedicalImagingSystem.Services.Tests\MedicalImagingSystem.Services.Tests.csproj", "{EC3FE22B-35E8-3225-1F23-E9E44803813A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalImagingSystem.ViewModels.Tests", "..\MedicalImagingSystem.ViewModels.Tests\MedicalImagingSystem.ViewModels.Tests.csproj", "{D2E8F0A2-2D10-C670-C0BF-B834DAB71D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F200DC-5E61-1858-04A3-2D2845DE8926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F200DC-5E61-1858-04A3-2D2845DE8926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F200DC-5E61-1858-04A3-2D2845DE8926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F200DC-5E61-1858-04A3-2D2845DE8926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86665178-F767-4297-B108-E4245B7F47BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86665178-F767-4297-B108-E4245B7F47BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86665178-F767-4297-B108-E4245B7F47BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86665178-F767-4297-B108-E4245B7F47BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7294968-7558-4E13-AC5B-8BCF21ECE2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7294968-7558-4E13-AC5B-8BCF21ECE2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7294968-7558-4E13-AC5B-8BCF21ECE2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7294968-7558-4E13-AC5B-8BCF21ECE2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1D53AF-64A5-452D-BC2F-72D3249A654B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1D53AF-64A5-452D-BC2F-72D3249A654B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1D53AF-64A5-452D-BC2F-72D3249A654B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1D53AF-64A5-452D-BC2F-72D3249A654B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46FC273-5C09-4296-8F0D-BDCD1618F755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46FC273-5C09-4296-8F0D-BDCD1618F755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46FC273-5C09-4296-8F0D-BDCD1618F755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46FC273-5C09-4296-8F0D-BDCD1618F755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BEAEC6-F086-49D8-AD41-B1F6D26BD543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BEAEC6-F086-49D8-AD41-B1F6D26BD543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BEAEC6-F086-49D8-AD41-B1F6D26BD543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BEAEC6-F086-49D8-AD41-B1F6D26BD543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABD6B6D-81B2-4DDF-B499-BD286516ECE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABD6B6D-81B2-4DDF-B499-BD286516ECE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABD6B6D-81B2-4DDF-B499-BD286516ECE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABD6B6D-81B2-4DDF-B499-BD286516ECE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906FC4E3-6D0F-5BD4-D413-E2FC325D4E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906FC4E3-6D0F-5BD4-D413-E2FC325D4E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906FC4E3-6D0F-5BD4-D413-E2FC325D4E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906FC4E3-6D0F-5BD4-D413-E2FC325D4E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888CD126-1714-9F9D-BD98-D2A058ADA657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888CD126-1714-9F9D-BD98-D2A058ADA657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888CD126-1714-9F9D-BD98-D2A058ADA657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888CD126-1714-9F9D-BD98-D2A058ADA657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A784B2AB-782A-25EE-8D4A-86A31607520D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A784B2AB-782A-25EE-8D4A-86A31607520D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A784B2AB-782A-25EE-8D4A-86A31607520D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A784B2AB-782A-25EE-8D4A-86A31607520D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27CB959-CA1C-BF65-D3A1-B316E31E4EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27CB959-CA1C-BF65-D3A1-B316E31E4EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27CB959-CA1C-BF65-D3A1-B316E31E4EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27CB959-CA1C-BF65-D3A1-B316E31E4EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3FE22B-35E8-3225-1F23-E9E44803813A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3FE22B-35E8-3225-1F23-E9E44803813A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3FE22B-35E8-3225-1F23-E9E44803813A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3FE22B-35E8-3225-1F23-E9E44803813A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E8F0A2-2D10-C670-C0BF-B834DAB71D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E8F0A2-2D10-C670-C0BF-B834DAB71D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E8F0A2-2D10-C670-C0BF-B834DAB71D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E8F0A2-2D10-C670-C0BF-B834DAB71D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BBF9FF7-8521-4497-9B39-CE4277A7DC1E}
+	EndGlobalSection
+EndGlobal

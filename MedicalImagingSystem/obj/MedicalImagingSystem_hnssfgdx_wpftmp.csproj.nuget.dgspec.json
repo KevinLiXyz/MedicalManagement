@@ -1,0 +1,418 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\MedicalImagingSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\MedicalImagingSystem.IServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\MedicalImagingSystem.IServices.csproj",
+        "projectName": "MedicalImagingSystem.IServices",
+        "projectPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\MedicalImagingSystem.IServices.csproj",
+        "packagesPath": "C:\\Users\\kevin.li\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\NuGet.Config",
+          "C:\\Users\\kevin.li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models\\MedicalImagingSystem.Models.csproj": {
+                "projectPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models\\MedicalImagingSystem.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models\\MedicalImagingSystem.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models\\MedicalImagingSystem.Models.csproj",
+        "projectName": "MedicalImagingSystem.Models",
+        "projectPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models\\MedicalImagingSystem.Models.csproj",
+        "packagesPath": "C:\\Users\\kevin.li\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\NuGet.Config",
+          "C:\\Users\\kevin.li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Services\\MedicalImagingSystem.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Services\\MedicalImagingSystem.Services.csproj",
+        "projectName": "MedicalImagingSystem.Services",
+        "projectPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Services\\MedicalImagingSystem.Services.csproj",
+        "packagesPath": "C:\\Users\\kevin.li\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\NuGet.Config",
+          "C:\\Users\\kevin.li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\MedicalImagingSystem.IServices.csproj": {
+                "projectPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\MedicalImagingSystem.IServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj",
+        "projectName": "MedicalImagingSystem.ViewModels",
+        "projectPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\kevin.li\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\NuGet.Config",
+          "C:\\Users\\kevin.li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\MedicalImagingSystem.IServices.csproj": {
+                "projectPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\MedicalImagingSystem.IServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\MedicalImagingSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\MedicalImagingSystem.csproj",
+        "projectName": "MedicalImagingSystem",
+        "projectPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\MedicalImagingSystem.csproj",
+        "packagesPath": "C:\\Users\\kevin.li\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\NuGet.Config",
+          "C:\\Users\\kevin.li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows7.0",
+            "projectReferences": {
+              "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\MedicalImagingSystem.IServices.csproj": {
+                "projectPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\MedicalImagingSystem.IServices.csproj"
+              },
+              "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Services\\MedicalImagingSystem.Services.csproj": {
+                "projectPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Services\\MedicalImagingSystem.Services.csproj"
+              },
+              "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows7.0",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

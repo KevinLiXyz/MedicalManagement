@@ -1,0 +1,15 @@
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\bin\Debug\net8.0\MedicalImagingSystem.Logger.deps.json
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\bin\Debug\net8.0\MedicalImagingSystem.Logger.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\bin\Debug\net8.0\MedicalImagingSystem.Logger.pdb
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\bin\Debug\net8.0\MedicalImagingSystem.ILogger.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\bin\Debug\net8.0\MedicalImagingSystem.ILogger.pdb
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\obj\Debug\net8.0\MedicalImagingSystem.Logger.csproj.AssemblyReference.cache
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\obj\Debug\net8.0\MedicalImagingSystem.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\obj\Debug\net8.0\MedicalImagingSystem.Logger.AssemblyInfoInputs.cache
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\obj\Debug\net8.0\MedicalImagingSystem.Logger.AssemblyInfo.cs
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\obj\Debug\net8.0\MedicalImagingSystem.Logger.csproj.CoreCompileInputs.cache
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\obj\Debug\net8.0\MedicalI.01E0289E.Up2Date
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\obj\Debug\net8.0\MedicalImagingSystem.Logger.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\obj\Debug\net8.0\refint\MedicalImagingSystem.Logger.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\obj\Debug\net8.0\MedicalImagingSystem.Logger.pdb
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Logger\obj\Debug\net8.0\ref\MedicalImagingSystem.Logger.dll

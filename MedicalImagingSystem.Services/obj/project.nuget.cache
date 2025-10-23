@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d522E47gRFs6NOw1NleyJpyv/IaYMKEa8Rx5575o5aV5jJiQLxPJ35gtUbHKPFkvkZ09M/Du0QSEViYruW5EhQ==",
+  "success": true,
+  "projectFilePath": "H:\\迅雷下载\\MedicalManagement-main\\MedicalManagement-main\\MedicalManagement (2)\\MedicalManagement\\MedicalImagingSystem.Services\\MedicalImagingSystem.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucy\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lucy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lucy\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lucy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

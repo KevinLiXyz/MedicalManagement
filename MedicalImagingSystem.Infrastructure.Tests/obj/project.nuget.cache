@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LxkFGFs6zrSQA+Z87Qs8kOkGLylnOz5O5AhhdVlcFkMy90t8qcrxZHJVwAQ+n+VSuqs10mZx5jybUxMr217gg==",
+  "success": false,
+  "projectFilePath": "H:\\迅雷下载\\MedicalManagement-main\\MedicalManagement-main\\MedicalManagement (2)\\MedicalManagement\\MedicalImagingSystem.Infrastructure.Tests\\MedicalImagingSystem.Infrastructure.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucy\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lucy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lucy\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lucy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "项目 MedicalImagingSystem.Infrastructure 与 net9.0 (.NETCoreApp,Version=v9.0) 不兼容。 项目 MedicalImagingSystem.Infrastructure 支持: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "MedicalImagingSystem.Infrastructure",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "项目 MedicalImagingSystem.ViewModels 与 net9.0 (.NETCoreApp,Version=v9.0) 不兼容。 项目 MedicalImagingSystem.ViewModels 支持: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "MedicalImagingSystem.ViewModels",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

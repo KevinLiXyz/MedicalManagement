@@ -1,0 +1,20 @@
+﻿MedicalImagingSystem
+1.0.0.0
+
+exe
+C#
+.cs
+H:\迅雷下载\MedicalManagement-main\MedicalManagement-main\MedicalManagement (2)\MedicalManagement\MedicalImagingSystem\obj\Debug\net8.0-windows7.0\
+MedicalImagingSystem
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+H:\迅雷下载\MedicalManagement-main\MedicalManagement-main\MedicalManagement (2)\MedicalManagement\MedicalImagingSystem\App.xaml
+41092931741
+
+8-1474010412
+233-1012150926
+Views\ImageViewerView.xaml;Views\MainWindow.xaml;Views\PatientListView.xaml;Views\SimpleMainWindow.xaml;
+
+True
+
