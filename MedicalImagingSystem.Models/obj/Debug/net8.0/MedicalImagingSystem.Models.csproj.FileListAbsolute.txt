@@ -1,0 +1,11 @@
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Models\bin\Debug\net8.0\MedicalImagingSystem.Models.deps.json
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Models\bin\Debug\net8.0\MedicalImagingSystem.Models.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Models\bin\Debug\net8.0\MedicalImagingSystem.Models.pdb
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Models\obj\Debug\net8.0\MedicalImagingSystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Models\obj\Debug\net8.0\MedicalImagingSystem.Models.AssemblyInfoInputs.cache
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Models\obj\Debug\net8.0\MedicalImagingSystem.Models.AssemblyInfo.cs
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Models\obj\Debug\net8.0\MedicalImagingSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Models\obj\Debug\net8.0\MedicalImagingSystem.Models.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Models\obj\Debug\net8.0\refint\MedicalImagingSystem.Models.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Models\obj\Debug\net8.0\MedicalImagingSystem.Models.pdb
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.Models\obj\Debug\net8.0\ref\MedicalImagingSystem.Models.dll

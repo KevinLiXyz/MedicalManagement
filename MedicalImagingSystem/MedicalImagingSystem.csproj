@@ -1,0 +1,95 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <StartupObject>MedicalImagingSystem.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\**\*" />
+    <Resource Include="Themes\**\*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Infrastructure\**" />
+    <Compile Remove="Models\**" />
+    <Compile Remove="services\**" />
+    <Compile Remove="viewmodels\**" />
+    <EmbeddedResource Remove="Infrastructure\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <EmbeddedResource Remove="services\**" />
+    <EmbeddedResource Remove="viewmodels\**" />
+    <None Remove="Infrastructure\**" />
+    <None Remove="Models\**" />
+    <None Remove="services\**" />
+    <None Remove="viewmodels\**" />
+    <Page Remove="Infrastructure\**" />
+    <Page Remove="Models\**" />
+    <Page Remove="services\**" />
+    <Page Remove="viewmodels\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="SimpleApp.xaml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="requirement.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Remove="SimpleApp.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Assets\SampleImages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MedicalImagingSystem.Infrastructure\MedicalImagingSystem.Infrastructure.csproj" />
+    <ProjectReference Include="..\MedicalImagingSystem.IServices\MedicalImagingSystem.IServices.csproj" />
+    <ProjectReference Include="..\MedicalImagingSystem.Services\MedicalImagingSystem.Services.csproj" />
+    <ProjectReference Include="..\MedicalImagingSystem.ViewModels\MedicalImagingSystem.ViewModels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Update="Assets\SampleImages\abdomen_ct_contrast.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Update="Assets\SampleImages\abdomen_ct_plain.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Update="Assets\SampleImages\brain_mri_t1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Update="Assets\SampleImages\brain_mri_t2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Update="Assets\SampleImages\chest_xray_front.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Update="Assets\SampleImages\chest_xray_side.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

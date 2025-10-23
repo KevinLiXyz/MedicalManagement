@@ -1,0 +1,11 @@
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ILogger\bin\Debug\net8.0\MedicalImagingSystem.ILogger.deps.json
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ILogger\bin\Debug\net8.0\MedicalImagingSystem.ILogger.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ILogger\bin\Debug\net8.0\MedicalImagingSystem.ILogger.pdb
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ILogger\obj\Debug\net8.0\MedicalImagingSystem.ILogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ILogger\obj\Debug\net8.0\MedicalImagingSystem.ILogger.AssemblyInfoInputs.cache
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ILogger\obj\Debug\net8.0\MedicalImagingSystem.ILogger.AssemblyInfo.cs
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ILogger\obj\Debug\net8.0\MedicalImagingSystem.ILogger.csproj.CoreCompileInputs.cache
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ILogger\obj\Debug\net8.0\MedicalImagingSystem.ILogger.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ILogger\obj\Debug\net8.0\refint\MedicalImagingSystem.ILogger.dll
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ILogger\obj\Debug\net8.0\MedicalImagingSystem.ILogger.pdb
+C:\Users\kevin.li\OneDrive - GREEN DOT CORPORATION\Documents\GitHub\MedicalManagement\MedicalImagingSystem.ILogger\obj\Debug\net8.0\ref\MedicalImagingSystem.ILogger.dll

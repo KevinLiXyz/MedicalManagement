@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2V9fIHDSx4k7zA+oI+viKp+DZ9/dPE3kb6ZPWohKXMC+SIxo7/pIisdohsiQFlyxDFrtjj8tUU0+Aa/wBTdCA==",
+  "success": true,
+  "projectFilePath": "H:\\迅雷下载\\MedicalManagement-main\\MedicalManagement-main\\MedicalManagement (2)\\MedicalManagement\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucy\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "C:\\Users\\Lucy\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lucy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lucy\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lucy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

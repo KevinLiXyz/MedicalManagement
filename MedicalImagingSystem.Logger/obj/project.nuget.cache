@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBBPXx/n3XHmap8PJu3ZbWD+d6L+t2573lEsMo/BYlisNBR/NpN6y9ZW6WgPdlooowAidSHL5UkupyErCKE3IQ==",
+  "success": true,
+  "projectFilePath": "H:\\迅雷下载\\MedicalManagement-main\\MedicalManagement-main\\MedicalManagement (2)\\MedicalManagement\\MedicalImagingSystem.Logger\\MedicalImagingSystem.Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

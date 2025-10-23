@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F27CB959-CA1C-BF65-D3A1-B316E31E4EF1}|..\\MedicalImagingSystem.Models.Tests\\MedicalImagingSystem.Models.Tests.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem.models.tests\\medicalimagemodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem\\views\\patientlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|solutionrelative:views\\patientlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1D53AF-64A5-452D-BC2F-72D3249A654B}|..\\MedicalImagingSystem.Models\\MedicalImagingSystem.Models.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem.models\\patientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7294968-7558-4E13-AC5B-8BCF21ECE2B7}|..\\MedicalImagingSystem.Services\\MedicalImagingSystem.Services.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem.services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1D53AF-64A5-452D-BC2F-72D3249A654B}|..\\MedicalImagingSystem.Models\\MedicalImagingSystem.Models.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem.models\\medicalimagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906FC4E3-6D0F-5BD4-D413-E2FC325D4E4C}|..\\MedicalImagingSystem.Infrastructure\\MedicalImagingSystem.Infrastructure.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem.infrastructure\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem\\views\\simplemainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|solutionrelative:views\\simplemainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7294968-7558-4E13-AC5B-8BCF21ECE2B7}|..\\MedicalImagingSystem.Services\\MedicalImagingSystem.Services.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem.services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906FC4E3-6D0F-5BD4-D413-E2FC325D4E4C}|..\\MedicalImagingSystem.Infrastructure\\MedicalImagingSystem.Infrastructure.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem.infrastructure\\medicalimagingsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46FC273-5C09-4296-8F0D-BDCD1618F755}|..\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem.viewmodels\\medicalimagingsystem.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46FC273-5C09-4296-8F0D-BDCD1618F755}|..\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem.viewmodels\\imageviewerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86665178-F767-4297-B108-E4245B7F47BD}|..\\MedicalImagingSystem.IServices\\MedicalImagingSystem.IServices.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem.iservices\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86665178-F767-4297-B108-E4245B7F47BD}|..\\MedicalImagingSystem.IServices\\MedicalImagingSystem.IServices.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem.iservices\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|c:\\users\\kevin.li\\onedrive - green dot corporation\\documents\\github\\medicalmanagement\\medicalimagingsystem\\views\\simplemainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75F200DC-5E61-1858-04A3-2D2845DE8926}|MedicalImagingSystem.csproj|solutionrelative:views\\simplemainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 9,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:35:41.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "..\\MedicalImagingSystem.Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Services\\PatientService.cs",
+              "RelativeToolTip": "..\\MedicalImagingSystem.Services\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:06:23.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceLocator.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Infrastructure\\ServiceLocator.cs",
+              "RelativeDocumentMoniker": "..\\MedicalImagingSystem.Infrastructure\\ServiceLocator.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Infrastructure\\ServiceLocator.cs",
+              "RelativeToolTip": "..\\MedicalImagingSystem.Infrastructure\\ServiceLocator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T08:38:40.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T08:38:46.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicalImageModel.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models\\MedicalImageModel.cs",
+              "RelativeDocumentMoniker": "..\\MedicalImagingSystem.Models\\MedicalImageModel.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models\\MedicalImageModel.cs",
+              "RelativeToolTip": "..\\MedicalImagingSystem.Models\\MedicalImageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T08:39:35.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientModel.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models\\PatientModel.cs",
+              "RelativeDocumentMoniker": "..\\MedicalImagingSystem.Models\\PatientModel.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models\\PatientModel.cs",
+              "RelativeToolTip": "..\\MedicalImagingSystem.Models\\PatientModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T08:39:36.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-24T06:48:50.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicalImageModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models.Tests\\MedicalImageModelTests.cs",
+              "RelativeDocumentMoniker": "..\\MedicalImagingSystem.Models.Tests\\MedicalImageModelTests.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Models.Tests\\MedicalImageModelTests.cs",
+              "RelativeToolTip": "..\\MedicalImagingSystem.Models.Tests\\MedicalImageModelTests.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:48:25.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientListView.xaml",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Views\\PatientListView.xaml",
+              "RelativeDocumentMoniker": "Views\\PatientListView.xaml",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Views\\PatientListView.xaml",
+              "RelativeToolTip": "Views\\PatientListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-24T09:03:16.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleMainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Views\\SimpleMainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SimpleMainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Views\\SimpleMainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\SimpleMainWindow.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAxwJ0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:49:53.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedicalImagingSystem.ViewModels.csproj",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj",
+              "RelativeDocumentMoniker": "..\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj",
+              "RelativeToolTip": "..\\MedicalImagingSystem.ViewModels\\MedicalImagingSystem.ViewModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T06:46:17.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\IPatientService.cs",
+              "RelativeDocumentMoniker": "..\\MedicalImagingSystem.IServices\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\IPatientService.cs",
+              "RelativeToolTip": "..\\MedicalImagingSystem.IServices\\IPatientService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:56:32.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\IImageService.cs",
+              "RelativeDocumentMoniker": "..\\MedicalImagingSystem.IServices\\IImageService.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.IServices\\IImageService.cs",
+              "RelativeToolTip": "..\\MedicalImagingSystem.IServices\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:56:59.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SimpleMainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Views\\SimpleMainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\SimpleMainWindow.xaml",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Views\\SimpleMainWindow.xaml",
+              "RelativeToolTip": "Views\\SimpleMainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-24T06:48:46.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImageViewerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.ViewModels\\ImageViewerViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MedicalImagingSystem.ViewModels\\ImageViewerViewModel.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.ViewModels\\ImageViewerViewModel.cs",
+              "RelativeToolTip": "..\\MedicalImagingSystem.ViewModels\\ImageViewerViewModel.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwIwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:46:04.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "..\\MedicalImagingSystem.Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Services\\ImageService.cs",
+              "RelativeToolTip": "..\\MedicalImagingSystem.Services\\ImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:08:00.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MedicalImagingSystem.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Infrastructure\\MedicalImagingSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\MedicalImagingSystem.Infrastructure\\MedicalImagingSystem.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem.Infrastructure\\MedicalImagingSystem.Infrastructure.csproj",
+              "RelativeToolTip": "..\\MedicalImagingSystem.Infrastructure\\MedicalImagingSystem.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T07:05:14.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kevin.li\\OneDrive - GREEN DOT CORPORATION\\Documents\\GitHub\\MedicalManagement\\MedicalImagingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:10:42.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
